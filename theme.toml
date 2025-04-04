@@ -1,7 +1,8 @@
-name = "Doks"
+name = "Andy The Dev"
 license = "MIT"
 licenselink = "https://github.com/thuliteio/doks/blob/master/LICENSE"
-description = "Build beautiful, high-performance documentation websites with Doks."
+description = "I'm currently on a train, without my laptop —  
+but I just opened GitHub on my phone and wrote this post directly into my Hugo blog"
 
 homepage = "https://github.com/thuliteio/doks"
 demosite = "https://doks.netlify.app"
