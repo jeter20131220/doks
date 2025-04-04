@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Doks"
-description: ""
+title: "On the Train"
+description: "Hi I'm andy."
 lead: "Congrats on setting up a new Doks project!"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
